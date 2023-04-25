@@ -8,7 +8,8 @@ In particular I've added shortcuts for:
 
 - Music playing selection (single track, album)
 - Music downloading (through yt-dlp)
-- Document reading
+- Audio control (through pactl)
+- Document reading (currently through mupdf)
 - Screenshots (Full screen, custom)
 - Utility programs (browser, mail client, ...)
 
